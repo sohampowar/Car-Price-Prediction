@@ -123,8 +123,8 @@ source venv/bin/activate
 <p>
 <b>Your Name</b><br>
 B.Tech in Computer Science & Engineering<br>
-GitHub: <a href="https://github.com/sohampowar">your-username</a><br>
-LinkedIn: <a href="https://www.linkedin.com/in/soham-powar-383593271/">Your LinkedIn</a>
+GitHub: <a href="https://github.com/sohampowar">SohampowarGithub</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/soham-powar-383593271/">SohampowarLinkedIn</a>
 </p>
 
 </body>
