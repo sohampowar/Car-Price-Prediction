@@ -14,7 +14,7 @@
 
 <h2>🔗 Live Demo</h2>
 <p>Try the app online: <a href="https://car-price-prediction-3flvetbdb6dbh8pdmxmpdk.streamlit.app/" target="_blank">Click here</a></p>
-<img src="https://github.com/your-username/Car-Price-Prediction/blob/main/images/car-price-demo.png" alt="Car Price Prediction Demo" style="width:80%; border-radius:10px; box-shadow:0px 4px 10px rgba(0,0,0,0.2);">
+<img src="https://github.com/sohampowar/Car-Price-Prediction/blob/11f96a8383f9fbc789a1a5750b516c7be7b6cfbd/CarPrice-output-1.png" alt="Car Price Prediction Demo" style="width:80%; border-radius:10px; box-shadow:0px 4px 10px rgba(0,0,0,0.2);">
 
 <hr>
 
