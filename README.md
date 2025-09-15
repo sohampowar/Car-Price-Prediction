@@ -13,7 +13,7 @@
 <hr>
 
 <h2>🔗 Live Demo</h2>
-<p>Try the app online: <a href="https://your-live-demo-link/" target="_blank">Click here</a></p>
+<p>Try the app online: <a href="https://car-price-prediction-3flvetbdb6dbh8pdmxmpdk.streamlit.app/" target="_blank">Click here</a></p>
 <img src="https://github.com/your-username/Car-Price-Prediction/blob/main/images/car-price-demo.png" alt="Car Price Prediction Demo" style="width:80%; border-radius:10px; box-shadow:0px 4px 10px rgba(0,0,0,0.2);">
 
 <hr>
@@ -123,8 +123,8 @@ source venv/bin/activate
 <p>
 <b>Your Name</b><br>
 B.Tech in Computer Science & Engineering<br>
-GitHub: <a href="https://github.com/your-username">your-username</a><br>
-LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin/">Your LinkedIn</a>
+GitHub: <a href="https://github.com/sohampowar">your-username</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/soham-powar-383593271/">Your LinkedIn</a>
 </p>
 
 </body>
